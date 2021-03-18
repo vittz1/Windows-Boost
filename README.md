@@ -1,6 +1,6 @@
 # Vittz Booster
 
-## Vittz booster é um optimizador para windows 10 feito em C#
+## Vittz booster é um optimizador para windows 10 feito em VB
 
 **FEATURES:**
     
